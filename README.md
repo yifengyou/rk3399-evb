@@ -1,4 +1,4 @@
-# firefly rk3399玩耍记录
+# rk3399-evb
 
 ```
 Something I hope you know before go into the coding~
@@ -9,37 +9,21 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 相关站点
 
-* 官方首页:<https://www.t-firefly.com/product/rk3399.html>
-* 官方文档:<https://wiki.t-firefly.com/zh_CN/Firefly-RK3399/>
-*
+
 
 ## 目录
 
 
 
-
 * [开发板介绍](docs/开发板介绍.md)
     * [开发板接口](docs/开发板介绍/开发板接口.md)
-    * [LCD](docs/开发板介绍/LCD.md)
+* [备份系统](docs/备份系统.md)
 * [烧写系统](docs/烧写系统.md)
 
 
 
 
 ## 图示
-
-![20230127_203812_24](image/20230127_203812_24.png)
-
-![20220714_143828_80](image/20220714_143828_80.png)
-
-![20220714_143741_62](image/20220714_143741_62.png)
-
-![20220714_143800_51](image/20220714_143800_51.png)
-
-![20220714_144121_35](image/20220714_144121_35.png)
-
-
-
 
 
 
